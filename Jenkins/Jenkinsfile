@@ -3,7 +3,7 @@ pipeline{
     stages {
         stage('Build'){
             steps{
-                sh 'echo "am building the image in the docker"'
+                sh 'echo "am building the image in the docke"'
             }
 
         }
