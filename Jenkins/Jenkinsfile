@@ -15,7 +15,7 @@ pipeline{
     }
     stages('deploy'){
         steps{
-                sh 'echo "am testing the image in the docker"'
+                sh 'echo "am testing the image in the dockr"'
 
            }
             
