@@ -15,9 +15,9 @@ pipeline{
     }
     stages('deploy'){
         steps{
-                sh 'echo "am testing the image in the dockr"'
+                sh 'echo "am deploy the image in the kuberentes"'
 
-           }
+        }
             
 
         }
